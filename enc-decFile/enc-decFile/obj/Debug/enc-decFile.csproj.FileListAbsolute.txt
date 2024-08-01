@@ -1,0 +1,10 @@
+G:\projects\enc-decFile\enc-decFile\enc-decFile\bin\Debug\enc-decFile.exe.config
+G:\projects\enc-decFile\enc-decFile\enc-decFile\bin\Debug\enc-decFile.exe
+G:\projects\enc-decFile\enc-decFile\enc-decFile\bin\Debug\enc-decFile.pdb
+G:\projects\enc-decFile\enc-decFile\enc-decFile\obj\Debug\enc_decFile.Properties.Resources.resources
+G:\projects\enc-decFile\enc-decFile\enc-decFile\obj\Debug\enc-decFile.csproj.GenerateResource.Cache
+G:\projects\enc-decFile\enc-decFile\enc-decFile\obj\Debug\enc-decFile.exe
+G:\projects\enc-decFile\enc-decFile\enc-decFile\obj\Debug\enc-decFile.pdb
+G:\projects\enc-decFile\enc-decFile\enc-decFile\obj\Debug\enc_decFile.Form1.resources
+G:\projects\enc-decFile\enc-decFile\enc-decFile\obj\Debug\enc-decFile.csprojResolveAssemblyReference.cache
+G:\projects\enc-decFile\enc-decFile\enc-decFile\obj\Debug\enc_decFile.Form2.resources
